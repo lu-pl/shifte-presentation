@@ -6,5 +6,5 @@ Macro Expansion in SHACL
 
 
 <div style="text-align: center;">
-	<img src="../shacl_processor_expansion.png" style="max-width: 100%; height: auto;">
+	<img src="https://raw.githubusercontent.com/lu-pl/shifte-presentation/refs/heads/gh-pages/shacl_processor_expansion.png" style="max-width: 100%; height: auto;">
 </div>

@@ -7,5 +7,5 @@ A SHACL processor operates on a shapes graph and a data graph<br/>and produces a
 </em></span>
 
 <div style="text-align: center;">
-	<img src="../shacl_processor.png" style="max-width: 70%; height: auto;">
+	<img src="https://raw.githubusercontent.com/lu-pl/shifte-presentation/refs/heads/gh-pages/shacl_processor.png" style="max-width: 70%; height: auto;">
 </div>
